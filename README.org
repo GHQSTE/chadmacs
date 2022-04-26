@@ -7,9 +7,10 @@
 
 ** Resources
 - [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]]
+- [[https://github.com/caisah/emacs.dz][emacs.dz]] -  Awesome emacs config files
 
 *** Configs
-- [[https://github.com/daedreth/UncleDavesEmacs][daedreth]]
+- [[https://github.com/daedreth/UncleDavesEmacs][daedreth]] - Uncle Dave's personal ~/.emacs.d
 - [[https://codeberg.org/mitch-kyle/emacs-config][mitch-kyle]]
 - [[https://github.com/angrybacon/dotemacs][angrybacon]]
 
