@@ -2,7 +2,7 @@
 #+begin_quote
 - [[#resources][Resources]]
   - [[#configs][Configs]]
-  - [[#starter-kit][Starter Kit]]
+    - [[#starter-kit][Starter Kit]]
 #+end_quote
 
 ** Resources
