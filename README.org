@@ -1,6 +1,6 @@
 * Table of Contents
 #+begin_quote
-- [[Resources]]
+- [[#resources][Resources]]
 #+end_quote
 
 ** Resources
