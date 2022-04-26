@@ -2,6 +2,7 @@
 #+begin_quote
 - [[#resources][Resources]]
   - [[#configs][Configs]]
+  - [[#starter-kit][Starter Kit]]
 #+end_quote
 
 ** Resources
@@ -9,7 +10,10 @@
 
 *** Configs
 - [[https://github.com/daedreth/UncleDavesEmacs][daedreth]]
+- [[https://codeberg.org/mitch-kyle/emacs-config][mitch-kyle]]
+- [[https://github.com/angrybacon/dotemacs][angrybacon]]
 
-
-- Sean Astin :: He plays Sam, Frodo's friend.  I still remember him
-     very well from his role as Mikey Walsh in /The Goonies/.
+*** Starter Kit
+- [[https://github.com/hlissner/doom-emacs][doom-emacs]] - An Emacs framework for the stubborn martian hacker
+- [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]] - Better Defaults for Emacs
+- [[https://github.com/purcell/emacs.d][purcell]] - An Emacs configuration bundle with batteries included
