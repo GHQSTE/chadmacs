@@ -1,4 +1,4 @@
-* Table of Contents
+** Table of Contents
 #+begin_quote
 - [[#resources][Resources]]
   - [[#configs][Configs]]
@@ -14,7 +14,7 @@
 - [[https://codeberg.org/mitch-kyle/emacs-config][mitch-kyle]]
 - [[https://github.com/angrybacon/dotemacs][angrybacon]]
 
-*** Starter Kit
+**** Starter Kit
 - [[https://github.com/hlissner/doom-emacs][doom-emacs]] - An Emacs framework for the stubborn martian hacker
 - [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]] - Better Defaults for Emacs
 - [[https://github.com/purcell/emacs.d][purcell]] - An Emacs configuration bundle with batteries included
