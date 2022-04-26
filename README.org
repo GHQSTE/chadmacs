@@ -1,7 +1,15 @@
 * Table of Contents
 #+begin_quote
 - [[#resources][Resources]]
+  - [[#configs][Configs]]
 #+end_quote
 
 ** Resources
 - [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]]
+
+*** Configs
+- [[https://github.com/daedreth/UncleDavesEmacs][daedreth]]
+
+
+- Sean Astin :: He plays Sam, Frodo's friend.  I still remember him
+     very well from his role as Mikey Walsh in /The Goonies/.
