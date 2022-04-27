@@ -6,8 +6,9 @@
 #+end_quote
 
 ** Resources
-- [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]]
+- [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] - A community driven list of useful Emacs packages, libraries and other items.
 - [[https://github.com/caisah/emacs.dz][emacs.dz]] -  Awesome emacs config files
+- [[https://github.com/p3r7/awesome-elisp][awesome-elisp]] - A curated list of emacs-lisp development resources
 
 ** Configs
 - [[https://github.com/daedreth/UncleDavesEmacs][daedreth]] - Uncle Dave's personal ~/.emacs.d
