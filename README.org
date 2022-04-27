@@ -1,20 +1,20 @@
 ** Table of Contents
 #+begin_quote
 - [[#resources][Resources]]
-  - [[#configs][Configs]]
-    - [[#starter-kit][Starter Kit]]
+- [[#configs][Configs]]
+  - [[#starter-kit][Starter Kit]]
 #+end_quote
 
 ** Resources
 - [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]]
 - [[https://github.com/caisah/emacs.dz][emacs.dz]] -  Awesome emacs config files
 
-*** Configs
+** Configs
 - [[https://github.com/daedreth/UncleDavesEmacs][daedreth]] - Uncle Dave's personal ~/.emacs.d
 - [[https://codeberg.org/mitch-kyle/emacs-config][mitch-kyle]]
 - [[https://github.com/angrybacon/dotemacs][angrybacon]]
 
-**** Starter Kit
+*** Starter Kit
 - [[https://github.com/hlissner/doom-emacs][doom-emacs]] - An Emacs framework for the stubborn martian hacker
 - [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]] - Better Defaults for Emacs
 - [[https://github.com/purcell/emacs.d][purcell]] - An Emacs configuration bundle with batteries included
